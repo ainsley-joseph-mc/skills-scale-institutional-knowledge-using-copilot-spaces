@@ -28,6 +28,11 @@ Our project lifecycle consists of five key phases:
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
 - **QA/Testing**: Validate quality and acceptance criteria
+- **UX/UI Designers**: Design intuitive and accessible user experiences
+- **Data Analysts**: Provide metrics and insights for data-driven decisions
+- **DevOps Engineers**: Manage infrastructure, automation, and deployment pipelines
+- **Subject Matter Experts (SMEs)**: Provide domain-specific expertise and guidance
+- **Customer Support Liaisons**: Represent customer voice and feedback
 - **Stakeholders**: Provide inputs, feedback, and approvals
 
 For detailed role descriptions, see [Roles and Personas](./octoacme-roles-and-personas.md).
