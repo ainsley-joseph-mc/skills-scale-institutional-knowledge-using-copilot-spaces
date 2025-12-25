@@ -18,6 +18,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX/UI Designers: design intuitive and accessible user experiences.
+- Data Analysts: provide metrics and insights for data-driven decisions.
+- DevOps Engineers: manage infrastructure, automation, and deployment pipelines.
+- Subject Matter Experts (SMEs): provide domain-specific expertise and guidance.
+- Customer Support Liaisons: represent customer voice and feedback.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
